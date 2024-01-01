@@ -8,3 +8,5 @@
 AlejandroGonzalezDe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+For the most part the repos are a work in progress with the recent addition of the calculator. Minor tweaks are needed but learning as I build the applicaiton.
